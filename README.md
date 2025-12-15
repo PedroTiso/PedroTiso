@@ -20,12 +20,15 @@ Sou estudante do 9º período de Engenharia de Computação, com experiência em
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Habilidades Técnicas
 **Linguagens:** JavaScript, Python, Java, C++, SQL
-**Linguagens:** Node.js, Express, React, MySQL, Jest, Jenkins, Docker, Git
+
+**Tecnologias:** Node.js, Express, React, MySQL, Jest, Jenkins, Docker, Git
+
 **Conceitos:** APIs REST, Testes Automatizados, CI/CD,
 Arquitetura Backend, Boas Práticas de Engenharia de Software,
 Qualidade de Software
+
 **Idiomas:** Inglês Avançado
 
 

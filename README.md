@@ -1,7 +1,7 @@
 ## Olá! 👋 Eu sou o Pedro Tiso
 
 🎓 Estudante de Engenharia de Computação no Inatel  
-💻 Focado em Desenvolvimento de Software (Backend, Frontend e Testes)  
+💻 Focado em Desenvolvimento de Software (Backend, Frontend e Testes Automatizados)  
 🚀 Interesse em estágio na área de desenvolvimento de software
 
 ---
@@ -16,16 +16,19 @@ Sou estudante do 9º período de Engenharia de Computação, com experiência em
 - Desenvolvimento Frontend
 - Testes de Software
 - CI/CD
-- Aplicações web e sistemas distribuídos
+- Aplicações web
 
 ---
 
 ## 🛠️ Tecnologias
-**Linguagens:** Java, JavaScript, Python, C++, SQL  
-**Frameworks & Ferramentas:** Node.js, Express, React, Jest, Jenkins, Docker  
-**Banco de Dados:** MySQL  
-**Conceitos:** APIs REST, Testes Automatizados, CI/CD, Arquitetura Backend, Controle de Versão  
+**Linguagens:** JavaScript, Python, Java, C++, SQL
+**Linguagens:** Node.js, Express, React, MySQL, Jest, Jenkins, Docker, Git
+**Conceitos:** APIs REST, Testes Automatizados, CI/CD,
+Arquitetura Backend, Boas Práticas de Engenharia de Software,
+Qualidade de Software
 **Idiomas:** Inglês Avançado
+
+
 
 ---
 

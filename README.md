@@ -2,25 +2,25 @@
 
 🎓 Estudante de Engenharia de Computação no Inatel  
 💻 Focado em Desenvolvimento de Software (Backend, Frontend e Testes)  
-🚀 Interesse em estágio na área de software e engenharia
+🚀 Interesse em estágio na área de desenvolvimento de software
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 Sou estudante do 9º período de Engenharia de Computação, com experiência em projetos acadêmicos e práticos envolvendo desenvolvimento full stack, testes automatizados e boas práticas de engenharia de software. Gosto de aprender na prática, escrever código limpo e construir soluções bem estruturadas.
 
 ---
 
-### 🧠 Áreas de interesse
+## 🧠 Áreas de interesse
 - Desenvolvimento Backend (APIs REST)
 - Desenvolvimento Frontend
 - Testes de Software
-- CI/CD e automação
+- CI/CD
 - Aplicações web e sistemas distribuídos
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 **Linguagens:** Java, JavaScript, Python, C++, SQL  
 **Frameworks & Ferramentas:** Node.js, Express, React, Jest, Jenkins, Docker  
 **Banco de Dados:** MySQL  
@@ -29,17 +29,18 @@ Sou estudante do 9º período de Engenharia de Computação, com experiência em
 
 ---
 
-### 📌 Projetos em destaque
-- 📚 **Sistema de Gerenciamento de Biblioteca**  
-  Aplicação full stack com Node.js, React, MySQL, testes automatizados e pipeline de CI/CD  
-  👉 https://github.com/C14-2025/Sistema-de-gerenciamento-biblioteca
+## 📌 Projetos em destaque
 
-- ❄️ **Controlador Fuzzy PD para Resfriamento de Data Center**  
-  Sistema com backend em Node.js, lógica Fuzzy e integração MQTT + Node-RED  
-  👉 https://github.com/PedroTiso/Sistemas-Embarcados---C213
+### 📚 Sistema de Gerenciamento de Biblioteca
+Aplicação full stack com Node.js, React, MySQL, testes automatizados e pipeline de CI/CD  
+👉 https://github.com/C14-2025/Sistema-de-gerenciamento-biblioteca
+
+### ❄️ Controlador Fuzzy PD para Resfriamento de Data Center
+Sistema com backend em Node.js, lógica Fuzzy e integração MQTT + Node-RED  
+👉 https://github.com/PedroTiso/Sistemas-Embarcados---C213
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/pedrotiso  
-- Email: pedro.tiso@gec.inatel.br
+- E-mail: pedro.tiso@gec.inatel.br
